@@ -22,6 +22,7 @@ This library depends upon `MapplsAPICore`. All dependent libraries will be autom
 
 | Version | Dated | Description |
 | :---- | :---- | :---- |
+| `3.0.4`| 31 Mar 2026 | - Added and removed some request and respose parameter in api wrappers.|
 | `3.0.3`| 13 Aug 2025 | - Bug fixes & improvements. |
 | `3.0.2`| 06 Aug 2025 | - Added `stages` in object of `MapplsReportedEventSummary`. <br> - Added a property `parentCategories` in the object of `MapplsRouteReportedEventSummary` |
 | `3.0.1`| 23 July 2025 | - Improvement and bug fixes. |
